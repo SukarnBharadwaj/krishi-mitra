@@ -1,7 +1,15 @@
 
 # Krishi Mitra
 
+##Krishi Mitr (Farmer Friend) is a web-based platform designed to empower farmers by providing a centralized marketplace for essential agricultural activities. Users can:
 
+Exchange crops with other farmers or buyers
+
+Procure seeds and fertilizers directly through the platform
+
+Rent farming equipment as per seasonal needs
+
+Access real-time Minimum Support Price (MSP) data from government sources
 
 
 ## Deployment
